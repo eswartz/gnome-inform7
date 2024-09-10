@@ -17,6 +17,7 @@
 - Matteo Settenvini
 - Vincent Petry - @PVince81
 - Zachary Amsden
+
 In addition, the source code of Andrew Hunter's OS X version and David
 Kinder's Windows version proved invaluable in writing the Gnome version.
 
